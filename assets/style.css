@@ -1,5 +1,24 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: maroon;
+    background-color: rgb(170, 136, 136);
 }
+
+/* top navigation style */
+
+#navbar {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+#navbarSpacer {
+    
+}
+
+/*
+ */
